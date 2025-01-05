@@ -1,1 +1,2 @@
 Pagina web sencilla creada con el fin de practicar lo estudiado sobre HTML, CSS y JAVASCRIPT y que pueda mostrar a los interesados mi experiencia laboral, mis proyectos, y mi formacion academica. 
+Si bien es una pagina muy sencilla, quise introducir varios conceptos estudiados y que a su vez logren tener una armonia en todo el conjunto de la pagina. Ademas, es una pagina web con diseño responsivo, probado en varios tipos de pantallas y navegadores.
